@@ -32,4 +32,4 @@ For this excersie , I will use simple text-based message over TCP:
   * https://gist.github.com/drewolson/3950226
   * https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets
   * [tui-go](https://github.com/marcusolsson/tui-go) for chat client. tview may be a better option, but textare input is not available yet.
-  * https://github.com/nqbao/go-sandbox/chatserver 
+  * https://github.com/nqbao/go-sandbox/tree/master/chatserver 
